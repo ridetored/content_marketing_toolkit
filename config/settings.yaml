@@ -1,0 +1,14 @@
+# Settings for Content Marketing Toolkit
+
+# API key for Semrush (used in keyword_research.py)
+semrush_api_key: "your_semrush_api_key"
+
+# Path to Google Analytics credentials (used in performance.py)
+google_analytics_credentials: "path_to_your_google_credentials.json"
+
+# API key for OpenAI (used in ai_suggestions.py)
+openai_api_key: "your_openai_api_key"
+
+# General settings
+output_directory: "data/"
+default_calendar_frequency: "weekly"
